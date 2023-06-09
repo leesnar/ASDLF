@@ -124,7 +124,7 @@ nav ul li a {
 
 footer {
     position: absolute;
-    bottom: -1000px;
+    bottom: -315px;
     left: 0;
     width: 100%;
     background-color: rgba(240, 240, 240, 0.253);
@@ -167,6 +167,19 @@ footer {
     text-align: left;
 }
 
+
+/* .fa-duotone {
+    font-family: "Font Awesome Duotone";
+  }
+  
+  .fa-circle-chevron-right:before {
+    content: "\f138";
+  }
+  
+  .fa-rotate-180 {
+    transform: rotate(180deg);
+  } */
+  
 .card-container {
     display: flex;
     justify-content: center;
